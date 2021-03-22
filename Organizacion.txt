@@ -1,0 +1,8 @@
+Para mi el concepto de organizacion en un centro de computo, sería poder
+tener un control de todos los sistemas y tenerlos disponibles,
+tener un calendario de actividades y llevar el control del mismo para tener
+en uso optimo de todo, hacer las tareas pertinentes para poder generar un 
+respaldo de cada equipo para poder reestablecerlo en cualquier momento. 
+Llevar registros de fallas, problemas, soluciones, acciones desarrolladas,
+respaldos, recuperaciones y trabajos realizados.
+
